@@ -118,3 +118,6 @@ The player, weapon, and game flow are separated so mobile input can be added wit
 - Volumetric fog, glow, four shadowed lights, and dense victory particles target a desktop GPU. Lower light shadow counts and confetti amount for older hardware or mobile.
 - Export templates are not bundled with the project, so a Windows executable must be exported from an installed Godot editor.
 
+## License
+
+Source code is available under the MIT License. Audio and visual assets are excluded from the MIT License; see [ASSET_LICENSE.md](ASSET_LICENSE.md).
