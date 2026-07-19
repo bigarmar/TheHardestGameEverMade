@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1280" viewBox="0 0 720 1280">
+ <rect width="720" height="1280" fill="#08232d"/>
+ <rect x="24" y="24" width="672" height="1232" fill="#123e4d" stroke="#69e4ef" stroke-width="12"/>
+ <text x="360" y="245" text-anchor="middle" fill="#b8fbff" font-family="Arial, sans-serif" font-size="64" font-weight="bold" letter-spacing="6">EMERGENCY</text>
+ <text x="360" y="350" text-anchor="middle" fill="#b8fbff" font-family="Arial, sans-serif" font-size="64" font-weight="bold" letter-spacing="6">DIFFICULTY</text>
+ <text x="360" y="455" text-anchor="middle" fill="#b8fbff" font-family="Arial, sans-serif" font-size="64" font-weight="bold" letter-spacing="6">REDUCER</text>
+ <circle cx="360" cy="765" r="156" fill="#082126" stroke="#68e6ef" stroke-width="22"/>
+ <circle cx="360" cy="765" r="108" fill="#53d9e3"/>
+ <path d="M360 650 v230 M245 765 h230" stroke="#e8ffff" stroke-width="32"/>
+ <text x="360" y="1090" text-anchor="middle" fill="#7fcad0" font-family="Arial, sans-serif" font-size="25" letter-spacing="3">FOR WHEN IT GETS HARD</text>
+</svg>

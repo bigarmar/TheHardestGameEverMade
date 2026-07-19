@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+ <rect width="1280" height="720" fill="#160b0d"/>
+ <rect x="26" y="26" width="1228" height="668" rx="8" fill="#2a1115" stroke="#f24e43" stroke-width="12"/>
+ <path d="M82 122 H1198 M82 600 H1198" stroke="#7e272b" stroke-width="4"/>
+ <text x="640" y="220" fill="#ffc1b7" text-anchor="middle" font-family="Arial, sans-serif" font-size="69" font-weight="bold" letter-spacing="5">ABSOLUTELY UNDER NO</text>
+ <text x="640" y="305" fill="#ffc1b7" text-anchor="middle" font-family="Arial, sans-serif" font-size="69" font-weight="bold" letter-spacing="5">CIRCUMSTANCES</text>
+ <rect x="102" y="375" width="1076" height="132" fill="#8e171b" stroke="#ff6558" stroke-width="6"/>
+ <text x="640" y="462" fill="#fff4e9" text-anchor="middle" font-family="Arial, sans-serif" font-size="59" font-weight="bold" letter-spacing="3">DO NOT SHOOT THIS POSTER</text>
+ <text x="640" y="568" fill="#aa6663" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" letter-spacing="7">AUTHORIZED PERSONNEL ONLY</text>
+</svg>

@@ -1,0 +1,15 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Generated, local, and exported artifacts
+*.log
+*.tmp
+*.bak
+*.import
+*.gdc
+*.ctex
+*.remap
+TheHardestGameEverMadeBuilds/
+WindowsDebug/
+backups/

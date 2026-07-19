@@ -1,0 +1,7 @@
+[gd_resource type="Theme" format=3]
+
+[resource]
+default_font_size = 16
+Button/colors/font_color = Color(0.91, 0.95, 0.97, 1)
+Button/colors/font_hover_color = Color(1, 1, 1, 1)
+Label/colors/font_color = Color(0.88, 0.94, 0.96, 1)
